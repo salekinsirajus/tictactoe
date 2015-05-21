@@ -1,0 +1,25 @@
+/*
+Documentation for TTT project.
+Author: Sirajus Salekin
+Date: 5/10/2015
+
+Description:
+The game Tic-Tac_Toe is a very common
+game played around the world. The simplest form of the
+game consists of a 3x3 square box, with two possible elements:
+X and O.
+
+Typically two players play the game, and each has to choose one
+symbol at the beginning of the game. Each has a chance to put
+his/her element in the squares and whoever can make a set of three
+elements horizontally, vertically or diagonally wins the game.
+
+Structure of the game:
+We are going to develop the game in two stages.
+First: we'll develop the game for two human players. This will
+require two element objects and a 3x3 square box object. A third
+driver program will control the interaction between the objects.
+
+Second: We'll develop an intelligent agent that can play as a human.
+We're basically eliminating the need of another human to play.
+*/
